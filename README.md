@@ -1,7 +1,9 @@
-👋 Oi, seja bem-vindo! Eu sou Tiago Rodrigues
+<h1 align="center">👋 Oi, seja bem-vindo! Eu sou Tiago Rodrigues</h1>
+
+###
 
 - 💻 Desenvolvedor Web Fullstack
-- 🎓 Graduado em Tecnologia e Análise e Desenvolvimento de Sistemas
+- 🎓 Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estudando PHP e Javascript
   
 <div>
@@ -10,21 +12,26 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorodri-dev&layout=compact&theme=tokyonight">
 </div>
 
-<h3>Tecnologias que utilizo:</h3>
+###
+
 <div style="display: inline_block">
-  <img align="center" alt="Tiago-HTML" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Tiago-CSS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Tiago-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Tiago-React" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Tiago-PHP" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Tiago-Laravel" height="60" widt="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Tiago-Angular" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Tiago-Typescript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Tiago-Ionic" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg">
+  <h3>Tecnologias que utilizo:</h3>
+  <img align="center" alt="Tiago-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Tiago-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Tiago-Js" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Tiago-React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Tiago-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Tiago-Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Tiago-PHP" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<!--   <img align="center" alt="Tiago-Laravel" height="60" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"> -->  
+  <img align="center" alt="Tiago-Ionic" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg">
+  <img align="center" alt="Tiago-Wordpress" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg">
 </div>
 
-<h3>Redes sociais:</h3>
+<hr>
+
 <div>
+  <h3>Redes sociais:</h3>
   <a href="https://instagram.com/tiagorodri__" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
@@ -33,5 +40,5 @@
   </a>
   <a href="https://www.linkedin.com/in/tiago-rodrigues01" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
 </div>
