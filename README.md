@@ -1,9 +1,9 @@
 <h1 align="center">👋 Oi, seja bem-vindo!</h1>
 
 ## Sobre mim 🤓:
-  - 💻 Desenvolvedor Web Fullstack
-  - 🎓 Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas
-  - 🌱 Atualmente estudando PHP e Javascript e na criação de projetos com tais tecnologias
+  - 💻 Desenvolvedor de software fullstack
+  - 🎓 Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas
+  - 🌱 Atualmente estudando Javascript, React.js e PHP visando desenvolver projetos com tais tecnologias
   
   <div align="center">
     <a href="https://github.com/tiagorodri-dev">
