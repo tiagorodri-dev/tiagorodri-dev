@@ -39,13 +39,6 @@
     </div>
   </div>
 
-  <div>
-    <h3>• Low code:</h3>
-    <div align="center">
-        <img align="center" alt="Tiago-Wordpress" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg">
-    </div>
-  </div>
-
 ## Contatos 📱:
   <div align="center">
     <a href="https://www.linkedin.com/in/tiago-rodrigues01" target="_blank">
