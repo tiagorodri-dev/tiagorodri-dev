@@ -1,7 +1,6 @@
 ## 🤓 Sobre mim
-  - 💻 Desenvolvedor de software fullstack
-  - 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí
-  - 🌱 Atualmente estudando Javascript, React.js e PHP visando desenvolver projetos com tais tecnologias
+  - 💻 Desenvolvedor full stack | Javascript | React.js | Node.js
+  - 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
 ## 💻 Tecnologias
@@ -14,7 +13,7 @@
         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   </div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 ## 📊 Github Stats
   <div align="center">
