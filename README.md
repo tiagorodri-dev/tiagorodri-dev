@@ -1,6 +1,6 @@
 ## 🤓 Sobre mim
   - 💻 Desenvolvedor full stack | Javascript | React.js | Node.js
-  - 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí  
+  - 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
 ## 💻 Tecnologias
@@ -26,16 +26,16 @@
 
 ## 📱 Contatos
   <div>
-    <a href="https://github.com/tiagorodri-dev">
+    <a href="https://github.com/tiagorodri-dev" target="_blank">
       <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/tiagorodri-dev">
     </a>    
     &nbsp;&nbsp;
-    <a href="mailto:tiagoarodrigues.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <a href="mailto:tiagoarodrigues.dev@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/tiagorodrigues-dev/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </div>
 </div>
