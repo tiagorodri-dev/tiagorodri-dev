@@ -1,7 +1,6 @@
-## 🤓 Sobre mim
-  - 💻 Desenvolvedor full stack | Javascript | React.js | Node.js
-  - 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### Olá! 😎
+Me chamo Tiago, sou um Desenvolvedor Fullstack com foco em front-end e no momento, aprimorando meus conhecimentos também em back-end. <br>
+Atualmente estou criando projetos com HTML, CSS, Javascript e em breve estarei avançando rumo ao React.js e Node.js.
     
 ## 💻 Tecnologias
   <div>    
