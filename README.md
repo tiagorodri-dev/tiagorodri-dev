@@ -22,10 +22,10 @@ Me chamo Tiago e sou um dev apaixonado por tecnologia e melhoria de processos.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 ## 📊 Minhas estatísticas:
-  <div align="center">
+  <div>
     <a href="https://github.com/tiagorodri-dev">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagorodri-dev&show_icons=true&theme=tokyonight">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorodri-dev&layout=compact&theme=tokyonight">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=tiagorodri-dev&show_icons=true&theme=tokyonight">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorodri-dev&layout=compact&theme=tokyonight">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </div>  
