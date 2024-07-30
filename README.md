@@ -15,10 +15,10 @@ My name is Tiago, I'm a Fullstack Developer passionate about technology and inno
   
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <a href="https://github.com/tiagorodri-dev/github-readme-stats">
-    <img height="220" src="https://github-readme-stats.vercel.app/api?username=tiagorodri-dev&show_icons=true&theme=tokyonight" alt="Tiago github stats" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=tiagorodri-dev&show_icons=true&theme=tokyonight" alt="Tiago github stats" />
   </a>
   <a href="https://github.com/tiagorodri-dev/github-readme-stats">
-    <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorodri-dev&theme=tokyonight" alt="Top Langs" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorodri-dev&theme=tokyonight" alt="Top Langs" />
   </a>
 </div> <br/><br/>
 
