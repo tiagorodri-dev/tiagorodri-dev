@@ -13,12 +13,14 @@ My name is Tiago, I'm a Fullstack Developer passionate about technology and inno
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>
 </div> <br/>
   
-<div>
-  <a href="https://github.com/tiagorodri-dev"> 
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tiagorodri-dev&show_icons=true&theme=tokyonight">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorodri-dev&layout=compact&theme=tokyonight">
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <a href="https://github.com/tiagorodri-dev/github-readme-stats">
+    <img height="220" src="https://github-readme-stats.vercel.app/api?username=tiagorodri-dev&show_icons=true&theme=tokyonight" alt="Tiago github stats" />
   </a>
-</div> <br/>
+  <a href="https://github.com/tiagorodri-dev/github-readme-stats">
+    <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorodri-dev&theme=tokyonight" alt="Top Langs" />
+  </a>
+</div> <br/><br/>
 
 ## 📱 Networks
 <p>
