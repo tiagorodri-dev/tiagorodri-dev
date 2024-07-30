@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there! 😎
 
-<!--
-**tiagorodri-dev/tiagorodri-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tiago, I'm a Fullstack Developer passionate about technology and innovation! <br/><br/>
 
-Here are some ideas to get you started:
+## 💻 Languages ​​and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <code><img height="40" src="https://github.com/user-attachments/assets/bc92e9bc-3a84-47c7-b3e4-36e552ca5ce1"/></code>
+  <code><img height="40" src="https://github.com/user-attachments/assets/ae943e4c-cf75-4172-8be5-1b42fa276dc3"/></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/></code>
+  <code><img height="40" src="https://github.com/user-attachments/assets/b9afeda6-8de5-43d9-a49d-b2f66d2a2a82"/></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>
+</div> <br/>
+  
+<div>
+  <a href="https://github.com/tiagorodri-dev"> 
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tiagorodri-dev&show_icons=true&theme=tokyonight">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorodri-dev&layout=compact&theme=tokyonight">
+  </a>
+</div> <br/>
+
+## 📱 Networks
+<p>
+  <a href="https://www.linkedin.com/in/tiagorodrigues-dev/">
+    <img align="left" alt="Linkedin" src="https://github.com/user-attachments/assets/dfd3252b-a48a-40ba-bc4a-1b724b5e99ff" width="40"/>
+  </a>
+
+  <a href="mailto:tiagoarodrigues.dev@gmail.com">
+    <img align="left" alt="Email" src="https://github.com/user-attachments/assets/f8df85a3-76db-4b48-9d3c-df95c3a041a7" width="40"/>
+  </a>
+  
+  <a href="https://github.com/tiagorodri-dev">
+    <img align="left" alt="Github" src="https://github.com/user-attachments/assets/3725c106-f2c8-49ae-9582-1adfff4b6f61" width="40"/>
+  </a>
+</p>
