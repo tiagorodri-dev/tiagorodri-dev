@@ -20,7 +20,7 @@ My name is Tiago, I'm a Fullstack Developer passionate about technology and inno
   <a href="https://github.com/tiagorodri-dev/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorodri-dev&theme=tokyonight" alt="Top Langs" />
   </a>
-</div> <br/><br/>
+</div> <br/>
 
 ## 📱 Networks
 <p>
