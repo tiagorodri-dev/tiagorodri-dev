@@ -1,6 +1,6 @@
 ## Hi there! 😎
 
-My name is Tiago, I'm a Fullstack Developer passionate about technology and innovation! <br/><br/>
+My name is Tiago, I'm a Fullstack Developer passionate about technology, innovation and bussiness! <br/><br/>
 
 ## 💻 Languages ​​and tools
 
